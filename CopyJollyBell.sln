@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyJollyBell", "CopyJollyBell\CopyJollyBell.csproj", "{B2CC5777-D2E4-46F6-9998-CAD52FF3CD5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CC5777-D2E4-46F6-9998-CAD52FF3CD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CC5777-D2E4-46F6-9998-CAD52FF3CD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CC5777-D2E4-46F6-9998-CAD52FF3CD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CC5777-D2E4-46F6-9998-CAD52FF3CD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE82698-6C99-4C19-835C-43C687FF0F53}
+	EndGlobalSection
+EndGlobal
